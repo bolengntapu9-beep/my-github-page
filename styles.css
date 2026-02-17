@@ -63,11 +63,11 @@ a:hover {
 }
 
 img {
-    border: 5px solid #4CAF50;
+    border: 5px solid #e671b9;
     border-radius: 10px;
 }
 
 main a[href="bolengntapu9@gmail.com"]{
-    color: #ff5722;
+    color: violet;
     font-weight: bold;
 }
