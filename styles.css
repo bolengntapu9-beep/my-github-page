@@ -1,14 +1,14 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: mediumvioletred;
-    background-color: azure;
+    background-color: rgb(248, 207, 231);
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header{
-    background-color: darkgray;
-    color: crimson;
+    background-color: rgb(214, 238, 237);
+    color: deeppink;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a{
-    color: darkorchid;
+    color:rgb(226, 0, 143);
     text-decoration: none;
     margin: 0 10px;
 }
@@ -68,6 +68,6 @@ img {
 }
 
 main a[href="bolengntapu9@gmail.com"]{
-    color: violet;
+    color: rgb(228, 58, 129);
     font-weight: bold;
 }
