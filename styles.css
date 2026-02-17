@@ -1,14 +1,14 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: mediumvioletred;
-    background-color: rgb(135, 179, 190);
+    background-color: azure;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 header{
-    background-color: rgb(255, 255, 255);
-    color: rgb(235, 202, 213);
+    background-color: darkgray;
+    color: crimson;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a{
-    color: rgb(197, 168, 129);
+    color: darkorchid;
     text-decoration: none;
     margin: 0 10px;
 }
